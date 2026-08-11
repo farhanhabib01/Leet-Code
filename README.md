@@ -74,8 +74,9 @@ Each problem is maintained in its own directory to keep solutions modular, searc
 
 |    # | Problem           | Topics            | Difficulty |
 | ---: | ----------------- | ----------------- | :--------: |
-| 0001 | Two Sum           | Array, Hash Table | 🟢 Easy |
-| 0009 | Palindrome Number | Math              | 🟢 Easy |
+| 0001 | Two Sum | Array, Hash Table | 🟢 Easy |
+| 0002 | Add Two Numbers | Linked List, Math, Recursion | 🟡 Medium |
+| 0009 | Palindrome Number | Math | 🟢 Easy |
 
 <!-- AUTO-GENERATED:END -->
 
@@ -129,8 +130,8 @@ The objective is to progressively replace brute-force approaches with solutions 
 
 ```text
 Problems Solved
-├── Easy     ████████████████████
-├── Medium   ░░░░░░░░░░░░░░░░░░░░
+├── Easy     █████████████░░░░░░░
+├── Medium   ███████░░░░░░░░░░░░░
 └── Hard     ░░░░░░░░░░░░░░░░░░░░
 ```
 
@@ -201,12 +202,8 @@ This repository represents my ongoing journey toward becoming a stronger softwar
 > **Solve. Analyze. Optimize. Repeat.**
 
 <!---LeetCode Topics Start-->
+
 # LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
-| [0009-palindrome-number](https://github.com/farhanhabib01/Leet-Code/tree/master/0009-palindrome-number) |
 ## Array
 |  |
 | ------- |
@@ -219,8 +216,14 @@ This repository represents my ongoing journey toward becoming a stronger softwar
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/farhanhabib01/Leet-Code/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
+
 <!---LeetCode Topics End-->
