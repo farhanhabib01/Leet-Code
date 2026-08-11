@@ -203,6 +203,7 @@ This repository represents my ongoing journey toward becoming a stronger softwar
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/farhanhabib01/Leet-Code/tree/master/0009-palindrome-number) |
 ## Array
 |  |
@@ -212,4 +213,12 @@ This repository represents my ongoing journey toward becoming a stronger softwar
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/farhanhabib01/Leet-Code/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
