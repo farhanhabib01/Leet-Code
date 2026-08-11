@@ -70,14 +70,16 @@ Each problem is maintained in its own directory to keep solutions modular, searc
 
 ## 🧩 Solved Problems
 
+<!-- AUTO-GENERATED:START -->
+
 |    # | Problem           | Topics            | Difficulty |
 | ---: | ----------------- | ----------------- | :--------: |
-| 0001 | Two Sum           | Array, Hash Table |   🟢 Easy  |
-| 0009 | Palindrome Number | Math              |   🟢 Easy  |
+| 0001 | Two Sum           | Array, Hash Table | 🟢 Easy |
+| 0009 | Palindrome Number | Math              | 🟢 Easy |
 
-> This table will grow as new problems are added.
+<!-- AUTO-GENERATED:END -->
 
----
+> This table is automatically updated whenever new LeetCode solutions are added to the repository.
 
 ## ⚙️ Complexity First
 
