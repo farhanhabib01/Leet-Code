@@ -202,7 +202,6 @@ This repository represents my ongoing journey toward becoming a stronger softwar
 > **Solve. Analyze. Optimize. Repeat.**
 
 <!---LeetCode Topics Start-->
-
 # LeetCode Topics
 ## Array
 |  |
@@ -212,6 +211,7 @@ This repository represents my ongoing journey toward becoming a stronger softwar
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/farhanhabib01/Leet-Code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/farhanhabib01/Leet-Code/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -221,9 +221,13 @@ This repository represents my ongoing journey toward becoming a stronger softwar
 | ------- |
 | [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/farhanhabib01/Leet-Code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/farhanhabib01/Leet-Code/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/farhanhabib01/Leet-Code/tree/master/0002-add-two-numbers) |
-
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/farhanhabib01/Leet-Code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
